@@ -78,12 +78,6 @@
 
 ###
 
-<div align="left">
-</div>
-
-###
-
-###
 
 <img src="https://raw.githubusercontent.com/lucaricciatl/lucaricciatl/output/snake.svg" alt="Snake animation" />
 
