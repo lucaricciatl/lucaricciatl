@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I'm Luca, an Italian engineer<br><br>- 🔭 I’m working as PhD student at KU  Leuven Garmin<br>-<br>- ⚡ In my free time I create robots and play guitar</p>
+<p align="left">I'm Luca, an Italian engineer<br><br>- 🔭 I’m working as PhD student at KU  Leuven <br>-<br>- ⚡ In my free time I create robots and play guitar</p>
 
 ###
 
